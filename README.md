@@ -50,7 +50,7 @@ For more information about project goals and history, please read the [Introduct
 * **Lesson 4: Process scheduler**
   * 4.1 [RPi OS](docs/lesson04/rpi-os.md) 
   * Linux
-    * 4.2 [Scheduler basic structures](docs/lesson04/linux/basic_structures.md)
+    * 4.2 [Scheduler basic structures](docs/lesson04/linux/basic_structures.md)....
     * 4.3 [Forking a task](docs/lesson04/linux/fork.md)
     * 4.4 [Scheduler](docs/lesson04/linux/scheduler.md)
   * 4.5 [Exercises](docs/lesson04/exercises.md)
